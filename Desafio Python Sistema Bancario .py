@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 menu = """
 
 [d] Depositar
@@ -69,15 +63,6 @@ while True:
         
     else:
         print("Operação inválida, por favor selecione novamente a operação desejada.")
-
-
-# In[3]:
-
-
-
-
-
-# In[ ]:
 
 
 
